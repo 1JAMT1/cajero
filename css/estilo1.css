@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+  color: aliceblue;
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+#caja1{
+    background-color:rgb(6, 56, 56);
+    padding: 3%;
+
+}
+#cuentas{
+    background-color: rgb(21, 102, 102);
+    border: none;
+    width: 20%;
+    color:aliceblue;
+}
+#a{
+    background-color:rgb(59, 146, 146) ;
+}
+input, button {
+  margin: 10px;
+  background-color: rgb(12, 102, 102);
+  color: aliceblue;
+}
+#caja2{
+    background-color:rgb(141, 135, 136);
+    border:solid;
+    border-color: rgb(6, 56, 56);
+}
